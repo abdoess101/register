@@ -1,9 +1,7 @@
 # Specification: 8-bit Enable Register
 
-![Register Diagram](register_diagram.png)
+![Register Diagram](doc/register_diagram.png)
 
-## Objective
-...
 ## Objective
 Design an 8-bit register in SystemVerilog with the following behavior.
 
